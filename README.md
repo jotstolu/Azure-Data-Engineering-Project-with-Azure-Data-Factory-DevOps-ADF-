@@ -59,7 +59,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ### 3. Azure SQL to Bronze (Incremental Load)
 
-![Incremental Ingestion](./assets/28951cef-e92a-4f36-9b81-73206e688117.png)
+![Incremental Ingestion](https://github.com/jotstolu/Azure-Data-Engineering-Project-with-Azure-Data-Factory-and-Azure-DevOps/blob/main/images/AzureSQLDB_to_datalake_pipeline.png?raw=true)
 
 ---
 
