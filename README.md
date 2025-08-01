@@ -77,7 +77,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ### 6. Gold Layer Pipeline (Business View)
 
-![Gold Pipeline](./assets/93b7887e-5ca6-49cc-aa09-cc6775c3d1a8.png)
+![Gold Pipeline](images/goldlayer_dataflow_pipeline.png)
 
 ---
 
