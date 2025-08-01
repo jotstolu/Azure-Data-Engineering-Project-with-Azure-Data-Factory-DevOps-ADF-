@@ -89,7 +89,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ## ⚙️ CI/CD with Azure DevOps
 
-![Azure DevOps](./assets/ae429a0f-9023-4615-9f34-60b3b6a285ef.png)
+![Azure DevOps](https://github.com/jotstolu/Azure-Data-Engineering-Project-with-Azure-Data-Factory-and-Azure-DevOps/blob/main/images/azuredevops.png?raw=true)
 
 - Connected to DevOps Git Repos via **Git Integration**
 - 3 branches:
