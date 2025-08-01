@@ -47,7 +47,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ### 1. On-Prem Ingestion Pipeline
 
-![OnPrem Pipeline](./assets/ba2fdfe6-b994-424d-a318-56401dc72f6b.png)
+![OnPrem Pipeline](https://github.com/jotstolu/Azure-Data-Engineering-Project-with-Azure-Data-Factory-and-Azure-DevOps/blob/main/images/Onprem%20data%20migration%20pipeline.png?raw=true)
 
 ---
 
