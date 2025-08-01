@@ -53,7 +53,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ### 2. GitHub API Ingestion Pipeline
 
-![API Pipeline](./assets/e3deaa85-4d1c-4124-b134-790fd9bb0916.png)
+![API Pipeline](https://github.com/jotstolu/Azure-Data-Engineering-Project-with-Azure-Data-Factory-and-Azure-DevOps/blob/main/images/API_ingestion_pipeline.png?raw=true)
 
 ---
 
