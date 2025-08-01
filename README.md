@@ -65,7 +65,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ### 4. Silver Layer Transformation
 
-![Silver Pipeline](./assets/7f5c30e8-4f53-4bdd-80ab-d8aa959579db.png)
+![Silver Pipeline](https://github.com/jotstolu/Azure-Data-Engineering-Project-with-Azure-Data-Factory-and-Azure-DevOps/blob/main/images/silverlayer_dataflow_pipeline.png?raw=true)
 
 ---
 
