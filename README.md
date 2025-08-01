@@ -83,7 +83,7 @@ The pipeline extracts data from multiple sources — **On-Prem CSV**, **Azure SQ
 
 ### 7. Parent Orchestration Pipeline
 
-![Parent Pipeline](./assets/dfdc49ad-bb89-4421-a66a-6d3ed5dbb96d.png)
+![Parent Pipeline](https://github.com/jotstolu/Azure-Data-Engineering-Project-with-Azure-Data-Factory-and-Azure-DevOps/blob/main/images/parent_pipeline.png?raw=true)
 
 ---
 
